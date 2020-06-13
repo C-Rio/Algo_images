@@ -23,4 +23,4 @@
 
 |        Image d'origine         |       Calcul de la largeur       |
 | :----------------------------: | :-------------------------------: |
-| ![](https://github.com/C-Rio/Algo_images/blob/master/Images/Exemples/rice.png) | ![](https://github.com/C-Rio/Algo_images/blob/master/Images/Exemples/largeur.JPG) )|
+| ![](https://github.com/C-Rio/Algo_images/blob/master/Images/Exemples/rice.png) | ![](https://github.com/C-Rio/Algo_images/blob/master/Images/Exemples/largeur.JPG)|
